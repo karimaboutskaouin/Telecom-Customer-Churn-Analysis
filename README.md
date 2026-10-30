@@ -245,13 +245,8 @@ python Churn-prediction/churn_analysis.py
 - Open `Churn-prediction/PowerBI/Dashboard.pbix` in Power BI Desktop
 - Power BI Desktop is free  download from microsoft.com
 
+
   
-## 👤 Author
-
-**Prabin Pokhrel**
-Master's in Business Intelligence  Dalarna University
-- GitHub: [@PrabinPokhrel](https://github.com/PrabinPokhrel)
-
 ---
 
 *⭐ If you found this project helpful, please give it a star!*
